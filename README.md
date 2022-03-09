@@ -10,7 +10,6 @@ You can use **[ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)** if you're using Li
 ### Installation
 - ``$ git clone https://github.com/ncmpcpp/ncmpcpp.git``
 
-
 ## Disclaimer 
 - **All music are from [Chosic website](https://www.chosic.com/) i don't own any of them**
 
