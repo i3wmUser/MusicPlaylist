@@ -15,7 +15,7 @@ You can use **[ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)** if you're using Li
 - **All music are from [Chosic website](https://www.chosic.com/) i don't own any of them**
 
 ### Quick note.
-- I'm drunk idk what to put here.
+- I'm tired idk what to put here.
 - Also the Playlist gonna update when i find good music.
 - Also don't ask why i used Github for uploading my music i just want to use git command i'm lazy.
 - Thanks.
