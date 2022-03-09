@@ -8,7 +8,7 @@ You can use **[ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)** if you're using Li
 ### Requirements 
 - `mpd`
 ### Installation
-- ``$ git clone https://github.com/ncmpcpp/ncmpcpp.git``
+- ``$ git clone https://github.com/i3wmUser/MusicPlaylist.git``
 
 ## Disclaimer 
 - **All music are from [Chosic website](https://www.chosic.com/) i don't own any of them**
