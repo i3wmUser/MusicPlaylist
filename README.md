@@ -8,7 +8,7 @@ You can use **[ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)** if you're using Li
 ### Requirements 
 - `mpd`
 ### Installation
-``$ git clone https://github.com/ncmpcpp/ncmpcpp.git``
+- ``$ git clone https://github.com/ncmpcpp/ncmpcpp.git``
 
 
 ## Disclaimer 
